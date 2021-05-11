@@ -1,5 +1,5 @@
-# IS601 - Web App 3
-This project is a homework assignment to get Pycharm working with Docker, Flask, and MySQL.
+Pycharm Web App Part 3
+This project is a homework assignment to get Pycharm to create a website to view, edit, add, and delete records
 
 # Running WebApp
 ![postman_](./screenshots/webpage.png)
